@@ -23,7 +23,7 @@ color: var(--WHITE, #FFF);
     /* Header 1 */
     font-family: Roboto;
     font-size: 56px;
-    font-style: normal;
+    font-style: normal; 
     font-weight: 700;
     line-height: 60px;
     /* 107.143% */
@@ -32,10 +32,10 @@ color: var(--WHITE, #FFF);
 
     }
 }
+
 .hero {
    
-    width: 1440px;
-    height: 600px;
+   
     flex-shrink: 0;
    background: var(--NAVY-BLUE, #2E2F42);
 }
