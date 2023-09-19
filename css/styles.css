@@ -1,9 +1,14 @@
-
+:root {
+    --styl-color:#434455;
+    --background-color:#FFFFFF;
+}
 
 body 
 {
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
+    background-color: var(--background-color);
+    color: var(--styl-color);
 
 ul {
 
