@@ -43,7 +43,7 @@ color: var(--WHITE, #FFF);
 }
 .color
 {
-color: var(--styl-colorr, #4d5ae5);
+color: var(--styl-colorr);
 
 }
 
@@ -64,6 +64,7 @@ color: var(--styl-colorr, #4d5ae5);
 }   
 .link
 {
+    color: var(--styl-colorr);
 text-decoration: none;
 }
 .studio
