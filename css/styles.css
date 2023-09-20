@@ -45,15 +45,15 @@ color: var(--WHITE, #FFF);
 
 .web
 {
-    --styl-color: #4D5AE5;
-color: var(--styl-color, #4D5AE5);
+    
+    color: var(--styll-color);
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
     line-height: 1.17;
     /* 116.667% */
-    letter-spacing: 0.03em;
+    letter-spacing: 0.03em; 
     text-transform: uppercase;
     
 
