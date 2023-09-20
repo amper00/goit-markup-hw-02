@@ -43,7 +43,7 @@ color: var(--WHITE, #FFF);
 
 
 
-.link
+.web
 {
     --styl-color: #4D5AE5;
 color: var(--styl-color, #4D5AE5);
@@ -55,8 +55,12 @@ color: var(--styl-color, #4D5AE5);
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    text-decoration: none;
+    
 
+}
+.link
+{
+text-decoration: none;
 }
 .studio
 {
