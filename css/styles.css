@@ -1,5 +1,5 @@
 :root {
-    --styl-color:#434455;
+    --styl-color:#4d5ae5;
     --background-color:#FFFFFF;
     --styll-color:#4d5ae5;
 }
@@ -46,7 +46,7 @@ color: var(--WHITE, #FFF);
 .web
 {
     
-    color: var(--styll-color);
+    color: var(--styl-color: #4d5ae5);
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
