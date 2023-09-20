@@ -50,24 +50,23 @@ color: var(--styll-color, #4D5AE5);
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
-    line-height: 0.03em       --styll-color  ;
+    line-height: 1.17;
     /* 116.667% */
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 
 }
-.logo_2
+.logoo_
 {
-color: var(--NAVY-BLUE, #2E2F42);
-    font-family: Raleway;
+color: var(--styll-color, #4D5AE5);
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
-    line-height: 21px;
+    line-height: 1.17;
     /* 116.667% */
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
-
 }
 .menu
 {
