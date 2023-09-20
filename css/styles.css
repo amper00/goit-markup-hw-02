@@ -43,7 +43,7 @@ color: var(--WHITE, #FFF);
 
 
 
-.logo_
+.logo
 {
 color: var(--styll-color, #4D5AE5);
     font-family: 'Raleway', sans-serif;
@@ -56,7 +56,7 @@ color: var(--styll-color, #4D5AE5);
     text-transform: uppercase;
 
 }
-.logoo_
+.logoo
 {
 color: var(--styll-color, #4D5AE5);
     font-family: 'Raleway', sans-serif;
