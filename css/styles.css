@@ -45,7 +45,8 @@ color: var(--WHITE, #FFF);
 
 .web
 {
-color: var(--styll-color, #4D5AE5);
+    --styl-color: #4D5AE5;
+color: var(--styl-color, #4D5AE5);
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
