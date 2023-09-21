@@ -38,8 +38,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
-
-  background: var(--styl-colorrr, #2e2f42);
+  background: var(--styl-colorrr);
 }
 .color {
   color: var(--styl-colorr);
