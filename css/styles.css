@@ -33,8 +33,13 @@ body {
 }
 
 .hero {
-  flex-shrink: 0;
-  background: var(--NAVY-BLUE, #2e2f42);
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+
+  background: var(--styl-colorrr, #2e2f42);
 }
 .color {
   color: var(--styl-colorr);
