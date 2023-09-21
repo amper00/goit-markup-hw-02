@@ -154,7 +154,9 @@ body {
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-
+.bak {
+  background-color: #f4f4fd;
+}
 .team {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
