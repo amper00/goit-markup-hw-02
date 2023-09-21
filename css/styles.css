@@ -28,6 +28,9 @@ body {
     letter-spacing: 1.12px;
   }
 }
+.list {
+  list-style: none;
+}
 
 .hero {
   flex-shrink: 0;
