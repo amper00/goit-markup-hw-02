@@ -56,6 +56,9 @@ body {
 .link:hover {
   color: #404bbf;
 }
+.link.active {
+  color: #404bbf;
+}
 
 .studio {
   color: var(--styll-color, #4d5ae5);
