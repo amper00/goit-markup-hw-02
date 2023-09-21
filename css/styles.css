@@ -64,6 +64,12 @@ body {
 .link:focus {
   color: #404bbf;
 }
+.linkk:hover {
+  background-color: #404bbf;
+}
+.linkk:focus {
+  background-color: #404bbf;
+}
 
 .studio {
   color: var(--styll-color, #4d5ae5);
