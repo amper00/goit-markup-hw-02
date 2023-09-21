@@ -1,195 +1,164 @@
 :root {
-    --styl-color:#434455;
-    --background-color:#FFFFFF;
-    --styl-colorr:#4d5ae5;
-       
+  --styl-color: #434455;
+  --background-color: #ffffff;
+  --styl-colorr: #4d5ae5;
 }
-    
-body 
-{
-    font-family: 'Raleway', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    background-color: var(--background-color);
-    color: var(--styl-color);
 
-ul {
+body {
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+  background-color: var(--background-color);
+  color: var(--styl-color);
 
-        list-style-type: none;
-
-    }
-    h1
-    {
-color: var(--WHITE, #FFF);
+  ul {
+    list-style-type: none;
+  }
+  h1 {
+    color: var(--WHITE, #fff);
     text-align: center;
 
     /* Header 1 */
     font-family: Roboto;
     font-size: 56px;
-    font-style: normal; 
+    font-style: normal;
     font-weight: 700;
     line-height: 60px;
     /* 107.143% */
     letter-spacing: 1.12px;
-
-
-    }
+  }
 }
 
 .hero {
-   
-   
-    flex-shrink: 0;
-   background: var(--NAVY-BLUE, #2E2F42);
+  flex-shrink: 0;
+  background: var(--NAVY-BLUE, #2e2f42);
 }
-.color
-{
-color: var(--styl-colorr);
-
+.color {
+  color: var(--styl-colorr);
 }
 
-
-.web
-{
- 
-    font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: 1.17;
-    /* 116.667% */
-    letter-spacing: 0.03em; 
-    text-transform: uppercase;
-    
-
-}   
-.link
-{
-    color: var(--styl-colorr);
-text-decoration: none;
+.web {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 1.17;
+  /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
-.studio
-{
-color: var(--styll-color, #4D5AE5);
-    font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: 1.17;
-    /* 116.667% */
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+.link {
+  text-decoration: none;
 }
-.menu
-{
-color: var(--NAVY-BLUE, #2E2F42);
+.studio {
+  color: var(--styll-color, #4d5ae5);
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 1.17;
+  /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.menu {
+  color: var(--NAVY-BLUE, #2e2f42);
 
-    /* Body Medium */
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    /* 150% */
-    letter-spacing: 0.32px;
+  /* Body Medium */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  /* 150% */
+  letter-spacing: 0.32px;
+}
+.address {
+  color: var(--SLATE, #434455);
 
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  /* 150% */
+  letter-spacing: 0.32px;
 }
-.address
-{
-    color: var(--SLATE, #434455);
-    
-        /* Body */
-        font-family: Roboto;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 24px;
-        /* 150% */
-        letter-spacing: 0.32px;
-}
-.point_1
-{
-    color: var(--NAVY-BLUE, #2E2F42);
-    
-        /* Header 3 */
-        font-family: Roboto;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 24px;
-        /* 120% */
-        letter-spacing: 0.4px;
+.point_1 {
+  color: var(--NAVY-BLUE, #2e2f42);
 
+  /* Header 3 */
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  /* 120% */
+  letter-spacing: 0.4px;
 }
-.describtions_1
-{
+.describtions_1 {
+  color: var(--SLATE, #434455);
 
-        color: var(--SLATE, #434455);
-        
-            /* Body */
-            font-family: Roboto;
-            font-size: 16px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 24px;
-            /* 150% */
-            letter-spacing: 0.32px;
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  /* 150% */
+  letter-spacing: 0.32px;
 }
-.doing
-{
-color: var(--NAVY-BLUE, #2E2F42);
-    text-align: center;
+.doing {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
 
-    /* Header 2 */
-    font-family: Roboto;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 40px;
-    /* 111.111% */
-    letter-spacing: 0.72px;
-    text-transform: capitalize;
+  /* Header 2 */
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 111.111% */
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+.team {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
 
+  /* Header 2 */
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 111.111% */
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
 }
-.team
-{
-color: var(--NAVY-BLUE, #2E2F42);
-    text-align: center;
+.name {
+  color: var(--NAVY-BLUE, #2e2f42);
+  text-align: center;
 
-    /* Header 2 */
-    font-family: Roboto;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 40px;
-    /* 111.111% */
-    letter-spacing: 0.72px;
-    text-transform: capitalize; 
+  /* Header 3 */
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  /* 120% */
+  letter-spacing: 0.4px;
 }
-.name
-{
-    color: var(--NAVY-BLUE, #2E2F42);
-        text-align: center;
-    
-        /* Header 3 */
-        font-family: Roboto;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 24px;
-        /* 120% */
-        letter-spacing: 0.4px;
-}
-.job
-{
-    color: var(--SLATE, #434455);
-        text-align: center;
-    
-        /* Body */
-        font-family: Roboto;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 24px;
-        /* 150% */
-        letter-spacing: 0.32px;
+.job {
+  color: var(--SLATE, #434455);
+  text-align: center;
+
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  /* 150% */
+  letter-spacing: 0.32px;
 }
