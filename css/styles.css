@@ -53,12 +53,10 @@ body {
 .link {
   text-decoration: none;
 }
-.link:hover {
+.link:hover .link:active {
   color: #404bbf;
 }
-.link:active {
-  color: #404bbf;
-}
+
 .studio {
   color: var(--styll-color, #4d5ae5);
   font-family: "Raleway", sans-serif;
