@@ -56,7 +56,7 @@ body {
 .link:hover {
   color: #404bbf;
 }
-.link:active {
+.link:visited {
   color: #404bbf;
 }
 
