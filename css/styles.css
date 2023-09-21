@@ -100,6 +100,15 @@ body {
   /* 150% */
   letter-spacing: 0.32px;
 }
+.button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
 .point_1 {
   color: var(--NAVY-BLUE, #2e2f42);
 
