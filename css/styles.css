@@ -67,6 +67,17 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.webb {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 1.17;
+  /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  background-color: var(--background-colorrr);
+}
 .link {
   text-decoration: none;
 }
