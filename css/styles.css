@@ -6,6 +6,7 @@
   --background-colorr: #f4f4fd;
 }
 .buttonn {
+  cursor: pointer;
   color: var(--styl-color);
   background-color: var(--background-colorr);
 }
