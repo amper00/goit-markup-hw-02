@@ -241,3 +241,8 @@ body {
   /* 150% */
   letter-spacing: 0.32px;
 }
+.footer {
+  color: var(--background-colorr);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
