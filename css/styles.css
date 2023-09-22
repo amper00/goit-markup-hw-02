@@ -178,7 +178,7 @@ body {
 .name {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
-  background-color: #FFFFFF
+  background-color: #ffffff;
 
   /* Header 3 */
   font-family: Roboto;
@@ -192,7 +192,7 @@ body {
 .job {
   color: var(--SLATE, #434455);
   text-align: center;
-  background-color: #FFFFFF
+  background-color: #ffffff;
 
   /* Body */
   font-family: Roboto;
