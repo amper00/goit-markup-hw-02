@@ -246,3 +246,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.last {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--styl-colorrr);
+}
+.lastt {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  color: var(--styl-color);
+}
