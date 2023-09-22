@@ -3,12 +3,17 @@
   --background-color: #ffffff;
   --styl-colorr: #4d5ae5;
   --styl-colorrr: #2e2f42;
+  --background-colorr: #f4f4fd;
+}
+.buttonn {
+  color: var(--styl-color);
+  background-color: var(--background-color);
 }
 
 body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
-  background-color: var(--background-color);
+  background-color: var(--background-colorr);
   color: var(--styl-color);
 
   ul {
